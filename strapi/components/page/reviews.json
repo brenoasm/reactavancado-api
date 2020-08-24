@@ -10,9 +10,9 @@
       "type": "string",
       "required": true
     },
-    "review": {
+    "reviews": {
       "type": "text",
-      "required": true
+      "required": false
     },
     "photo": {
       "model": "file",

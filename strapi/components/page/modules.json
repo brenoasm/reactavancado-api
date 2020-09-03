@@ -16,7 +16,8 @@
     },
     "description": {
       "type": "richtext",
-      "private": true
+      "private": false,
+      "required": true
     }
   }
 }
